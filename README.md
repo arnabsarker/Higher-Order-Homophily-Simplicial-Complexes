@@ -1,4 +1,4 @@
-# Simplicial Homophily Beyond Triads
+# Data and Code for Studying Simplicial Homophily Beyond Triads
 
 This repository contains data and code to replicate results in the paper
 
